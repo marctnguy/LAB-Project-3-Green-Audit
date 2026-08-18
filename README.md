@@ -16,9 +16,9 @@ The purpose of this audit is **not** to produce a certified carbon footprint. In
 
 | File                                     | Description                                                                                                                                                                                              |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Marc-project3-green-compute-brief.md** | Technical overview of the system's operational footprint, execution flow, compute components, hosting assumptions, and measured runtime characteristics.                                                 |
-| **Marc-project3-green-audit.md**         | Complete sustainability assessment following the lab phases, including the compute map, SCI analysis, hotspot identification, Green Software Foundation pillar mapping, and improvement recommendations. |
-| **Marc-project3-sustainability-memo.md** | Client-facing sustainability memo summarizing the audit findings, recommended actions, limitations, and next steps for the engineering team.                                                             |
+| **project3-green-compute-brief.md** | Technical overview of the system's operational footprint, execution flow, compute components, hosting assumptions, and measured runtime characteristics.                                                 |
+| **project3-green-audit.md**         | Complete sustainability assessment following the lab phases, including the compute map, SCI analysis, hotspot identification, Green Software Foundation pillar mapping, and improvement recommendations. |
+| **project3-sustainability-memo.md** | Client-facing sustainability memo summarizing the audit findings, recommended actions, limitations, and next steps for the engineering team.                                                             |
 | **README.md**                            | Repository overview and file guide.                                                                                                                                                                      |
 
 ---
